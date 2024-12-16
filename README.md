@@ -8,7 +8,7 @@ With the advancement of artificial intelligence technology, the ability to produ
 For more details, come see our latest paper discussing this experiment in GAT Based Models for Speech Spoofing in the Indonesian Language.
 
 We take deep inspiration and would like to shoutout the following links that helped us in developing this project:
-- [The AASIST main repository](https://github.com/clovaai/aasist) used as our main source code reference. **Training and evaluation is the same as in this repository**. You could refer to the `config` directory for further configuration of the training/evaluation part.
+- [The AASIST main repository](https://github.com/clovaai/aasist) used as our main source code reference and **we forked from this repository**. **Training and evaluation is the same as in this repository**. You could refer to the `config` directory for further configuration of the training/evaluation part.
 - [INDspeech News LVSCR Dataset](https://huggingface.co/datasets/SEACrowd/indspeech_news_lvcsr) for bonafide audio data collection and spoofed generation through its text metadata.
 - [Indonesian Coqui TTS configuration](https://github.com/Wikidepia/indonesian-tts/releases/) for spoofed audio data collection.
 - [The AASIST paper](https://arxiv.org/abs/2110.01200) as the main paper for the modeling phase and data understanding.
